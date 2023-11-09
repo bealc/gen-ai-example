@@ -1,0 +1,4 @@
+{
+    "containerName": "genai",
+    "containerPort": 8501
+}

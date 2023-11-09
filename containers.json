@@ -1,0 +1,8 @@
+{
+    "genai": {
+        "image": ":genai-service.genai-container.1",
+        "ports": {
+            "8501": "HTTP"
+        }
+    }
+}
