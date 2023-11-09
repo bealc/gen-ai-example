@@ -17,6 +17,7 @@
         * Assemble components together
     * Agents:
         * Agent allows LLMs to interact with it's environment
+        * LLM to choose a sequence of actions to take
 
 ## Helpful Commands
 
@@ -27,4 +28,4 @@
 
 ## Python Tips
 
-* Can use Python formatted string literals to include method arguments within a string.
+* Can use Python formatted string literals to include method arguments within a string
